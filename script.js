@@ -1,0 +1,1 @@
+console.log('script for lesson 4');
